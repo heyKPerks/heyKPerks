@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kyle @heyKPerks
+- 👋 Hi!
 - 👀 I’m interested in frontend webdev, human computer interaction, UI/UX, and universal design. 
 - 🌱 I’m currently learning responsive design and javascript. 
 - 📫 Email: heykperks@gmail.com, Discord: heyKPerks#4655
